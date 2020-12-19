@@ -1,6 +1,5 @@
 import java.sql.*;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Scanner;
 
 public class MovieReservation {
